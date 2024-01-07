@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("\n");
-    printf(" == Tic Tac Toe == \n");
+    printf(" \n == Tic Tac Toe == \n");
     printf("     |      |    \n");
     printf("     |      |    \n");
     printf("  1  |  2   |  3 \n");
